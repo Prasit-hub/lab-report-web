@@ -1,0 +1,9 @@
+@use 'core' as core;
+
+.root {
+    background-color: core.$theme_indigo;
+}
+
+.logo {
+    max-width: 150px;
+}

@@ -1,0 +1,17 @@
+@use 'core' as core;
+
+div {
+    .root {
+      display: flex;
+      min-height: 100vh;
+      flex-direction: column;
+    }
+
+    .mainContent {
+      margin: 1em;
+      display: flex;
+      justify-content: center;
+    }
+
+
+}  
